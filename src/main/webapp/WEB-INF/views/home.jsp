@@ -7,17 +7,13 @@
 <div class="container-fluid main">
 	<div class="row-fluid">
 		<div class="span10 offset1">
-			<h1>DevOps Traning Mohanraj Vellingiri</h1>
-			<h1>DevOps Traning	12 09 2020</h1>
-			<h1>DevOps Traning  12 09 2020</h1>
-			<h1>DevOps Traning Mohanraj Vellingiri</h1>
-			<h1>Devops Training Nallaperumal TN	</h1>
-			<h1>Devops Training Vijay AP	</h1>
-			<h1>Updated by Mohanraj</h1>
-			<h1>Change for TouchScreen UI	</h1>
-			<h1>DevOps Training Mohit Kambam</h1>
-			<h1> DevOps Training 12 09 2020 Mohit Kambam</h1>
-			My New Code is here for UI
+			<h1>DevOps Traning Ramesh Nakarikanti</h1>
+			<h2>DevOps Traning Ramesh Nakarikanti</h2>
+			<h3>DevOps Traning Ramesh Nakarikanti</h3>
+			<h4>DevOps Traning Ramesh Nakarikanti</h4>
+			<h3>DevOps Traning Ramesh Nakarikanti</h3>
+			<h2>DevOps Traning Ramesh Nakarikanti</h2>
+			<h1>DevOps Traning Ramesh Nakarikanti</h1>			
 			<div>
 				<p class="well">
 					<security:authorize access="hasRole('ROLE_USER')">
